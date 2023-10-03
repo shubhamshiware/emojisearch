@@ -1,0 +1,7 @@
+.data {
+  text-align: center;
+  background-size: cover; /* Correct syntax for background-size */
+  background-repeat: no-repeat; /* Correct syntax for background-repeat */
+  background-position: center; /* Correct syntax for background-position */
+  background-image: url("https://media.istockphoto.com/id/1293119881/photo/like-heart-icon-on-pink-background-copy-space-text-social-media-notification-3d-rendering.webp?b=1&s=170667a&w=0&k=20&c=KHgeF3yTPItIB5-o9IXJZOFSfmIZfVT9fNhsXKcpitE=");
+}
